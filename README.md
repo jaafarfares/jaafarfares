@@ -1,4 +1,13 @@
 Jaafar Fares
+
+
+![githubgifs](https://user-images.githubusercontent.com/98318912/196275000-e94dde20-2f24-4463-aed8-bbc7c810e35c.gif)
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Jaafar Fares</h1>
 <h3 align="center">A passionate Software Engineer from tunisia</h3>
 
