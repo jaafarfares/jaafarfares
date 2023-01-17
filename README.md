@@ -23,7 +23,7 @@ Jaafar Fares
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/fares-jaafar-a80a8a230](https://www.linkedin.com/in/fares-jaafar-a80a8a230)
 
-- 💬 Ask me about *C, python, JavaScript, rubby, puppet, bash, flutter,*
+- 💬 Ask me about  bash,*C, python, JavaScript, css, HTML5, flutter, ...*
 
 - 📫 How to reach me *jaafarferes@gmail.com / 4418holbertonstudents@gmail.com*
 
