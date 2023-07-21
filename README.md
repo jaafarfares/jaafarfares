@@ -19,6 +19,8 @@ Jaafar Fares
 
 - 🌱 I’m currently learning *Flutter*
 
+- 🌐 My personal website: [My Website](https://jaafarfares.github.io/)
+ 
 - 👨‍💻 All of my projects are available at [https://github.com/jaafarfares](https://github.com/jaafarfares)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/fares-jaafar-a80a8a230](https://www.linkedin.com/in/fares-jaafar-a80a8a230)
